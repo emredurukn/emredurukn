@@ -6,7 +6,7 @@
 
 I'm a passionate Senior Data Engineer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from data analysis to big data processing.
 
-- 🌱 I’m currently learning **Apache Iceberg and DuckDB**
+- 🌱 I’m currently learning **Apache Iceberg** and **DuckDB**
 - 💬 Ask me about **Python, Google Cloud Platform, and Big Data**
 - 📫 How to reach me: [durukan.emre93@gmail.com](mailto:durukan.emre93@gmail.com)
 - ⚡ Fun fact: I love hiking and exploring nature!
