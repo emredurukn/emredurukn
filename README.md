@@ -20,10 +20,6 @@ I'm a passionate Senior Data Engineer with a love for creating innovative soluti
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📈 GitHub Stats
-
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emredurukn&show_icons=true&theme=radical)
-
 ## 🏆 Top Projects
 
 ### [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
