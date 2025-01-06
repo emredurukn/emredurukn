@@ -1,7 +1,5 @@
 # Hi there, I'm Emre Durukn! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=emredurukn&color=blue)
-
 ## 🚀 About Me
 
 I'm a passionate Senior Data Engineer with a love for creating innovative solutions and learning new technologies. I enjoy working on a variety of projects, from data analysis to big data processing.
