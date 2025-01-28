@@ -1,4 +1,4 @@
-# Hi there, I'm Emre Durukn! 👋
+# Hi there, I'm Emre Durukan! 👋
 
 ## 🚀 About Me
 
