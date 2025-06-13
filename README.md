@@ -18,17 +18,6 @@ I'm a passionate Senior Data Engineer with a love for creating innovative soluti
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 🏆 Top Projects
-
-### [awesome-job-boards](https://github.com/emredurukn/awesome-job-boards)
-A curated list of awesome job boards.
-
-### [betcalsa](https://github.com/emredurukn/betcalsa)
-Document Scanner iOS app written in Swift.
-
-### [etl-pipelines-with-python](https://github.com/emredurukn/etl-pipelines-with-python)
-ETL Pipelines with Python.
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emredurukn/)
