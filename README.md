@@ -34,10 +34,3 @@ I specialize in building real-time and batch data pipelines, optimizing large-sc
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📫 Let's Connect
-
-📧 durukan.emre93@gmail.com  
-💼 https://linkedin.com/in/emredurukn
