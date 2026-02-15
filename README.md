@@ -20,10 +20,7 @@ I specialize in building real-time and batch data pipelines, optimizing large-sc
 - 🔐 Implement IAM policies, encryption, and secure GCP architectures
 - 📊 Ensure data quality, reliability, and performance at scale
 
----
-
-## 🌱 Currently Learning
-- **dbt** for modern data transformations
+⚡ Fun fact: I love hiking and exploring nature!
 
 ---
 
@@ -43,7 +40,4 @@ I specialize in building real-time and batch data pipelines, optimizing large-sc
 ## 📫 Let's Connect
 
 📧 durukan.emre93@gmail.com  
-💼 https://linkedin.com/in/emredurukn  
-📝 https://emredurukn.medium.com  
-
-⚡ Fun fact: I love hiking and exploring nature!
+💼 https://linkedin.com/in/emredurukn
