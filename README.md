@@ -1,6 +1,6 @@
 # Hi there, I'm Emre Durukan! 👋
 
-🚀 Senior Data Engineer | Google Cloud Professional  
+Senior Data Engineer | Google Cloud Professional  
 📍 Istanbul, Turkey  
 
 I'm a Senior Data Engineer with 7+ years of experience designing, building, and optimizing scalable data platforms on Google Cloud Platform.
@@ -18,8 +18,6 @@ I specialize in building real-time and batch data pipelines, optimizing large-sc
 - 🛠 Develop ETL pipelines with **Airflow, Spark, Luigi**
 - 🔐 Implement IAM policies, encryption, and secure GCP architectures
 - 📊 Ensure data quality, reliability, and performance at scale
-
-⚡ Fun fact: I love hiking and exploring nature!
 
 ---
 
